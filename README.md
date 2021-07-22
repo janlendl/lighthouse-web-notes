@@ -8,4 +8,4 @@ This repository will contain all of the notes by [Lendl](https://github.com/janl
 
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
-  * [Day 2](/Week1/Day_2)
+  * [Day 2](/Week_1/Day_2)
